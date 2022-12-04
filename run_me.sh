@@ -1,1 +1,1 @@
-chmod 0755 * ; ./install.sh
+chmod 0755 * ; ./require.sh

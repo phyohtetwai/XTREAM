@@ -1,1 +1,1 @@
-apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; sudo python xtremcodes.py
+apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; sudo python xtream_codes.py
